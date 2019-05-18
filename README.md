@@ -3,7 +3,7 @@ Predict The Likelihood of being Diabetic
 
 ## Required Packages install
 `
-  pip install pickle && flask && numpy && scikit-learn && matplotlib && pandas && seaborn
+  pip install pickle flask numpy scikit-learn matplotlib pandas seaborn
 `
 
 ## Run
